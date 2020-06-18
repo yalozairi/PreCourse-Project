@@ -115,7 +115,7 @@ describe("reverseString(string)", () => {
   });
 });
 
-/*
+
 import { generateIntegersArray, noZeroes } from "./debug-project";
 
 describe("generateIntegersArray(firstNumber, lastNumber)", () => {
@@ -141,4 +141,4 @@ describe("noZeroes(numberString)", () => {
   });
 });
 
-*/
+
